@@ -44,7 +44,7 @@ const pages = [
 ```
 
 ### Continued development
-Will have a make a new Commit very soon making this mobile responsive
+See ya next project :)
 
 ### Useful resources
 
